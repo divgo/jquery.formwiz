@@ -9,7 +9,6 @@ I was recently looking at jquery validator plugins with a coworker and wasnt all
 
 Some of the features of my scripts are as follows;
  - limit & restrict what characters can be entered into a given field
- - limit the number of characters that can be entered into a textarea field
  - allow for minimum and maximum values. Allow those min\max values to be numbers, dates or the values of other fields
  - provide a simple way to set a fields default value.
  - parse and validate date\time\datetime values on blur()
